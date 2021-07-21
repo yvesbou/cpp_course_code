@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yvesboutellier/CLionProjects/Exercise05/Task01/Source.cpp
+SpellChecker.h
+/Users/yvesboutellier/CLionProjects/Exercise05/Task01/SpellChecker.h
+iostream
+-
+string
+-
+sstream
+-
+regex
+-
+pset.h
+/Users/yvesboutellier/CLionProjects/Exercise05/Task01/pset.h
+
+/Users/yvesboutellier/CLionProjects/Exercise05/Task01/SpellChecker.h
+
+/Users/yvesboutellier/CLionProjects/Exercise05/Task01/persistor.h
+string
+-
+fstream
+-
+
+/Users/yvesboutellier/CLionProjects/Exercise05/Task01/pset.h
+string
+-
+set
+-
+persistor.h
+/Users/yvesboutellier/CLionProjects/Exercise05/Task01/persistor.h
+

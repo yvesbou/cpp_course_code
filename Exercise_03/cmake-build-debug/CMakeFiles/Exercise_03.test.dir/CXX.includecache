@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yvesboutellier/CLionProjects/Exercise_03/tester.cpp
+iostream
+-
+complex
+-
+fstream
+-
+vector
+-
+

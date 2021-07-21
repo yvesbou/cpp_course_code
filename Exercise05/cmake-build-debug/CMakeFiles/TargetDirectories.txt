@@ -1,0 +1,8 @@
+/Users/yvesboutellier/CLionProjects/Exercise05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yvesboutellier/CLionProjects/Exercise05/cmake-build-debug/CMakeFiles/Exercise05.5.dir
+/Users/yvesboutellier/CLionProjects/Exercise05/cmake-build-debug/CMakeFiles/Exercise05.3.dir
+/Users/yvesboutellier/CLionProjects/Exercise05/cmake-build-debug/CMakeFiles/Exercise05.2.dir
+/Users/yvesboutellier/CLionProjects/Exercise05/cmake-build-debug/CMakeFiles/Exercise05.4.dir
+/Users/yvesboutellier/CLionProjects/Exercise05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yvesboutellier/CLionProjects/Exercise05/cmake-build-debug/CMakeFiles/Exercise05.1.dir
+/Users/yvesboutellier/CLionProjects/Exercise05/cmake-build-debug/CMakeFiles/Exercise05.dir

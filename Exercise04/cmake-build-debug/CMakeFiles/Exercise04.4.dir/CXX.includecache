@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yvesboutellier/CLionProjects/Exercise04/Task05/Between.h
+iterator
+-
+
+/Users/yvesboutellier/CLionProjects/Exercise04/Task05/Source.cpp
+Between.h
+/Users/yvesboutellier/CLionProjects/Exercise04/Task05/Between.h
+iostream
+-
+vector
+-
+forward_list
+-
+

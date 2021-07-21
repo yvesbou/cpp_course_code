@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yvesboutellier/CLionProjects/Exercise04/Task04/MergeSTL.h
+
+/Users/yvesboutellier/CLionProjects/Exercise04/Task04/Source.cpp
+iostream
+-
+vector
+-
+iterator
+-
+MergeSTL.h
+/Users/yvesboutellier/CLionProjects/Exercise04/Task04/MergeSTL.h
+list
+-
+forward_list
+-
+

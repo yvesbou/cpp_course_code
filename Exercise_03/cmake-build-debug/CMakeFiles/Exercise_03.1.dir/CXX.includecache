@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.1/Emulating_Pointers.cpp
+Emulating_Pointers.h
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.1/Emulating_Pointers.h
+
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.1/Emulating_Pointers.h
+iostream
+-
+

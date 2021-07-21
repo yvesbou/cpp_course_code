@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yvesboutellier/CLionProjects/Exercise06/Task01/Source.cpp
+list
+-
+vector
+-
+map
+-
+set
+-
+stack
+-
+queue
+-
+string
+-
+iterator
+-
+iostream
+-
+array
+-
+

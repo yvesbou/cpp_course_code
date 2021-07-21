@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.3/RPN.h
+iostream
+-
+vector
+-
+pvector.h
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.3/pvector.h
+RPN_complex.h
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.3/RPN_complex.h
+sstream
+-
+
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.3/RPN_complex.h
+complex
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.3/complex
+iostream
+-
+
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.3/Source.cpp
+RPN.h
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.3/RPN.h
+complex
+-
+
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.3/pvector.h
+vector
+-
+iostream
+-
+fstream
+-
+

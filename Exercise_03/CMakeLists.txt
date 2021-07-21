@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.17)
+project(Exercise_03)
+
+set(CMAKE_CXX_STANDARD 20)
+add_executable(Exercise_03.1 3.1/Emulating_Pointers.cpp)
+add_executable(Exercise_03.2 3.2/Source.cpp)
+add_executable(Exercise_03.3 3.3/Source.cpp)
+add_executable(Exercise_03.4 3.4/Source.cpp)
+add_executable(Exercise_03.5 3.5/Source.cpp)
+add_executable(Exercise_03 test/tester.cpp)

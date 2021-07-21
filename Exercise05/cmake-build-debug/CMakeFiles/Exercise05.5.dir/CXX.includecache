@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yvesboutellier/CLionProjects/Exercise05/Task05/Header.h
+algorithm
+-
+
+/Users/yvesboutellier/CLionProjects/Exercise05/Task05/Source.cpp
+Header.h
+/Users/yvesboutellier/CLionProjects/Exercise05/Task05/Header.h
+lastWeek.h
+/Users/yvesboutellier/CLionProjects/Exercise05/Task05/lastWeek.h
+vector
+-
+iostream
+-
+list
+-
+forward_list
+-
+set
+-
+
+/Users/yvesboutellier/CLionProjects/Exercise05/Task05/lastWeek.h
+

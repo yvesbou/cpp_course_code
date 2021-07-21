@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yvesboutellier/CLionProjects/Exercise02/Task01/Task01.h
+iostream
+-
+vector
+-
+fstream
+-
+../Task03/fraction.h
+/Users/yvesboutellier/CLionProjects/Exercise02/Task03/fraction.h
+
+/Users/yvesboutellier/CLionProjects/Exercise02/Task03/Task03.cpp
+Task03.h
+/Users/yvesboutellier/CLionProjects/Exercise02/Task03/Task03.h
+
+/Users/yvesboutellier/CLionProjects/Exercise02/Task03/Task03.h
+iostream
+-
+sstream
+-
+utility
+-
+../Task01/Task01.h
+/Users/yvesboutellier/CLionProjects/Exercise02/Task01/Task01.h
+fraction.h
+/Users/yvesboutellier/CLionProjects/Exercise02/Task03/fraction.h
+
+/Users/yvesboutellier/CLionProjects/Exercise02/Task03/fraction.h
+iostream
+-
+

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.2/Source.cpp
+iostream
+-
+string
+-
+pset.h
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.2/pset.h
+pvector.h
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.2/pvector.h
+
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.2/persistor.h
+string
+-
+fstream
+-
+
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.2/pset.h
+string
+-
+set
+-
+persistor.h
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.2/persistor.h
+
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.2/pvector.h
+string
+-
+vector
+-
+persistor.h
+/Users/yvesboutellier/CLionProjects/Exercise_03/3.2/persistor.h
+

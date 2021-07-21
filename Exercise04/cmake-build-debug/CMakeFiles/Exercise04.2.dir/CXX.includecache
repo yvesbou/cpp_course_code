@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yvesboutellier/CLionProjects/Exercise04/Task02/Findif.h
+vector
+-
+Source.h
+/Users/yvesboutellier/CLionProjects/Exercise04/Task02/Source.h
+matcher.h
+/Users/yvesboutellier/CLionProjects/Exercise04/Task02/matcher.h
+iostream
+-
+
+/Users/yvesboutellier/CLionProjects/Exercise04/Task02/Source.cpp
+Source.h
+/Users/yvesboutellier/CLionProjects/Exercise04/Task02/Source.h
+Findif.h
+/Users/yvesboutellier/CLionProjects/Exercise04/Task02/Findif.h
+iostream
+-
+
+/Users/yvesboutellier/CLionProjects/Exercise04/Task02/Source.h
+
+/Users/yvesboutellier/CLionProjects/Exercise04/Task02/matcher.h
+
